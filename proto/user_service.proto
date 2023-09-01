@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package pb;
-import "user.proto";
+import "proto/user.proto";
 
 option go_package ="github.com/kiran-blockchain/golang-mongodb-grpc/pb";
 
